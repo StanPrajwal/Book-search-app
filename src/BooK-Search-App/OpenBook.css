@@ -1,0 +1,20 @@
+.open-book{
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    color: white;
+    
+}
+.open-details{
+
+    display:flex;
+    gap:1rem;
+}
+h2{
+    font-weight: 900;
+    font-size: 50px;
+    letter-spacing: 1px;
+}
